@@ -1,4 +1,4 @@
 #!/bin/bash
 set -e
-exec chmod a+rwx /var/www/files
 
+exec chmod a+rwx /var/www/files
